@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 1440
     height: 801
   m_ShowMode: 4
-  m_Title: Scene
+  m_Title: Project
   m_RootView: {fileID: 7}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -91,8 +91,8 @@ MonoBehaviour:
     y: 0
     width: 391
     height: 751
-  m_MinSize: {x: 275, y: 50}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 276, y: 71}
+  m_MaxSize: {x: 4001, y: 4021}
   m_ActualView: {fileID: 18}
   m_Panes:
   - {fileID: 18}
@@ -631,22 +631,22 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Scripts
+    - Assets/Scripts/Bullet
     m_Globs: []
     m_OriginalText: 
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Scripts
+  - Assets/Scripts/Bullet
   m_LastFoldersGridSize: -1
   m_LastProjectPath: /Users/olga/Desktop/I am programer/Unity/Asteroid3/Asteroids3
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 663f0000
-    m_LastClickedID: 16230
-    m_ExpandedIDs: 00000000443f0000463f0000483f000000ca9a3b
+    m_SelectedIDs: 8a3f0000
+    m_LastClickedID: 16266
+    m_ExpandedIDs: 00000000443f0000463f0000483f00005a3f000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -797,7 +797,7 @@ MonoBehaviour:
       scrollPos: {x: 0, y: 0}
       m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: a803ffffcc09ffffd009fffff00bffff000cffff100cffff200cffff300cffff400cffff500cffff600cffff700cffff800cffff900cffffa00cffffb00cffffc00cffffd00cffffe00cfffff00cffff000dffff100dffff200dffff300dffff400dffff500dffff600dffff700dffff800dffff140fffffb659ffff4ea9ffff52a9ffff70fbffff
+      m_ExpandedIDs: 70fbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
